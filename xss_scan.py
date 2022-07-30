@@ -1,3 +1,5 @@
+#这是一个py扫描xss漏洞的小脚本
+
 import requests
 # HTML转实体字符
 def str_html(source):
